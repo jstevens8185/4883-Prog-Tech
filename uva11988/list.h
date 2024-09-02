@@ -1,3 +1,8 @@
+//  File:   list.h
+//  Contains definition and implementation
+//  for a linked list and nodes to be used
+//  in uva problem 11988
+
 #ifndef LIST_H
 #define LIST_H
 
