@@ -3,7 +3,7 @@ Midwestern State University programming techniques class with Dr. Terry Griffin.
 Fall 2024
 
 ## Jered Stevens
-Email: j.stevens8185@gmail.com
+Email: j.stevens8185@gmail.com  
 Slack: JStevens
 
 ## Assignments
