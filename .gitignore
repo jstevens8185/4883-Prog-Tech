@@ -1,0 +1,9 @@
+/10783
+
+# Ignore all executable files
+*.exe
+*.out
+*.bin
+*.dll
+*.so
+*/main
